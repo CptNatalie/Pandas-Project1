@@ -8,4 +8,4 @@ In this challenge, we'll dive into a dataset from a fictional e-commerce company
 
 *Weekend peer-assisted study group
 *Chat GPT
-*Class modules
+*Class activities
